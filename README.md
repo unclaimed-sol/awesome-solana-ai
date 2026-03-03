@@ -88,6 +88,7 @@ AI-enhanced development tools for the Solana ecosystem.
 - [vulnhunter-skill](https://github.com/sendaifun/skills/tree/main/skills/vulnhunter) - AI coding skill for security vulnerability detection, dangerous API hunting, and variant analysis across Solana codebases.
 - [code-recon-skill](https://github.com/sendaifun/skills/tree/main/skills/zz-code-recon) - AI coding skill for deep architectural context building for security audits, mapping trust boundaries and vulnerability analysis.
 - [surfpool-skill](https://github.com/sendaifun/skills/tree/main/skills/surfpool) - AI coding skill for Surfpool, a Solana development environment with mainnet forking, cheatcodes, and Infrastructure as Code.
+- [Deside MCP](https://github.com/DesideApp/deside-mcp) - Wallet-to-wallet messaging primitive for Solana agents via MCP. Agents authenticate with Ed25519 keypair and send DMs addressed by pubkey.
 
 ## Learning Resources
 
